@@ -1,0 +1,16 @@
+.main_container{
+    background-image: url('../assets/Building_back.jpg');
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.navbar{
+    height: 70px;
+}
+.imageTop{
+
+    border-radius: 50%;
+    max-width: 250px;
+    max-height: 320px;
+}
